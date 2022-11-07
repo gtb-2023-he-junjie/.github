@@ -17,4 +17,4 @@
 
 ##### 照骗（不是照片）
 
-![photo](assets/photo.jpg)
+<img src="./assets/photo.jpg" width = "150" height = "200" alt="图片名称" align=center />
